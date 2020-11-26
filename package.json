@@ -4,9 +4,10 @@
   "description": "TBN Simple Echo Test Server",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "First Last <first.last@example.com>",
   "license": "Apache 2.0",
   "dependencies": {
     "express": "^4.17.1"
